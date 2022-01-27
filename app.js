@@ -30,7 +30,8 @@ const usuarios =[
     {id:1, nombre:'harold'},
     {id:2, nombre:'liliana'},
     {id:3, nombre:'sebastian'},
-    {id:4, nombre:'valentina'}
+    {id:4, nombre:'valentina'},
+    {id:4, nombre:'David'}
 ];
 
 app.get('/api/usuarios',  (req, res) => {
